@@ -35,7 +35,7 @@ function pickRandom(list) {
 
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
 global.linkGC = ['https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'] // ganti jadi group lu
-global.owner = ['6288229683561', '6287708773367' ,'6285600204672','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
+global.owner = ['', '6285888083107' ,'6285600204672','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
 global.mods = ['6288229683561'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
